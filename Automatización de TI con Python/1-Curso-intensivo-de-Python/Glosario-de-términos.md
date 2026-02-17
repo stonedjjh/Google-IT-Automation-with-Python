@@ -1,0 +1,47 @@
+# Glosario de términos
+
+- **Automatización:** Proceso de sustitución de un paso manual por otro que se realiza automáticamente
+- **Break:** Una forma de salir de un bucle antes de que la condición del bucle sea falsa
+- **Bucle For:** Ejecuta un bloque de código durante un número determinado de iteraciones o sobre una colección de elementos.
+- **Bucle infinito:** Una secuencia a la que le falta un método para salir del bucle, haciendo que éste se ejecute para siempre
+- **Bucle while:** Se utiliza cuando un segmento de código debe ejecutarse repetidamente mientras se cumple una condición
+- **Bucle:** Secuencia que hace que el ordenador realice tareas repetitivas.
+- **Cadena:** Tipo de datos utilizado para representar un fragmento de texto. secuencias de caracteres y son inmutables
+- **Código de programación:** Conjunto de instrucciones informáticas escritas, guiadas por reglas, que utilizan un lenguaje de programación informática
+- **Comentarios:** Notas dirigidas a uno mismo y/o a otros programadores para dejar claro el propósito del código
+- **Comprensiones de listas:** Crean nuevas listas basadas en secuencias o rangos
+- **Conversión explícita:** Se produce cuando se escribe código para convertir manualmente un tipo de datos en otro utilizando una función de conversión de tipos de datos
+- **Conversión implícita:** Ocurre cuando el intérprete de Python convierte automáticamente un tipo de datos en otro
+- **Diccionarios:** Tipo de datos utilizado para organizar elementos en colecciones, tomando la forma de pares de claves y valores
+- **Editores de código:** Herramientas que proporcionan funciones como resaltado de sintaxis, sangrado automático, comprobación de errores y autocompletado
+- **Entrada:** Información que el usuario final proporciona a un programa
+- **Errores lógicos:** Errores en el código que impiden que se ejecute correctamente.
+- **Expresión:** Combinación de números, símbolos u otros valores que producen un resultado cuando se evalúan
+- **Funciones integradas:** Funciones que existen dentro de Python y pueden ser llamadas directamente
+- **Funciones:** Bloque de código reutilizable que realiza una tarea específica
+- **IDE:** Una aplicación informática que proporciona amplias facilidades para el desarrollo de software
+- **Intérprete de Python:** Programa que lee y ejecuta código Python traduciéndolo a instrucciones de ordenador
+- **Intérprete:** El programa que lee y ejecuta el código
+- **Iteradores:** Variables que permiten recorrer una colección de elementos de uno en uno
+- **Lenguaje de programación orientada a objetos:** La mayoría de los elementos de codificación se consideran objetos con propiedades configurables
+- **Lenguaje de scripting del lado del cliente:** Principalmente para programación web; las secuencias de comandos se transfieren desde un servidor web al navegador de Internet del usuario final y, a continuación, se ejecutan en el navegador
+- **Lenguaje de scripting específico de la plataforma:** Lenguaje utilizado por los administradores del sistema en esas plataformas específicas
+- **Lenguaje máquina:** Lenguaje informático de más bajo nivel. Se comunica directamente con las máquinas en código binario (unos y ceros)
+- **Lenguajes de programación:** Lenguaje con sintaxis y semántica para escribir programas informáticos
+- **Operadores lógicos:** Operadores utilizados para combinar o manipular valores booleanos (Verdadero o Falso) con el fin de crear condiciones complejas para la toma de decisiones.
+- **Parámetro (argumento):** Un valor que se pasa a una función para su uso dentro de la misma, permitiendo que la función realice tareas con datos dinámicos.
+- **Pase:** Una declaración de marcador de posición que se utiliza cuando la sintaxis requiere una declaración, pero no desea ejecutar ningún código o comando
+- **Programa informático:** Lista de instrucciones paso a paso que sigue un ordenador para alcanzar un objetivo
+- **Programación:** El proceso de escribir un programa para que se comporte de diferentes maneras
+- **Python:** Lenguaje de programación de propósito general.
+- **Recursión:** La aplicación repetida del mismo procedimiento a un problema más pequeño
+- **Refactorización:** Cuando un código se actualiza para ser más autodocumentado y aclarar la intención.
+- **Salida:** resultado final de una tarea realizada por una función o programa informático
+- **Script:** A menudo utilizado para automatizar tareas específicas
+- **Semántica:** Significado o efecto que se pretende dar a las frases o conjuntos de palabras, tanto en el lenguaje humano como en el informático
+- **Sentencias de control:** Construcciones de programación que dirigen el flujo de ejecución de un programa permitiéndole tomar decisiones, repetir acciones o elegir entre diferentes rutas de código basadas en condiciones específicas.
+- **Sintaxis:** Las reglas que rigen la construcción de los enunciados, tanto en el lenguaje humano como en el informático
+- **Tipos de datos:** Clases de datos (por ejemplo, string, int, float, Boolean, etc.), que incluyen las propiedades y comportamientos de las instancias del tipo de datos (variables)
+- **Tuplas:** Secuencias de elementos de cualquier tipo que son inmutables, se escriben paréntesis en lugar de corchetes
+- **Valor de retorno:** Es el valor o variable que se devuelve como resultado final de una función
+- **Variables:** Se utilizan para almacenar temporalmente valores modificables en el código de programación
