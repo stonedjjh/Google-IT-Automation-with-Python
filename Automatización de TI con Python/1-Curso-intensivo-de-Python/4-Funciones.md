@@ -67,11 +67,10 @@ print(resultado)  # Salida: 8
 - Argumentos nombrados: Son argumentos que se pasan a una función especificando el nombre del parámetro al que pertenecen.
 - Argumentos por defecto: Son argumentos a los que se les asigna un valor predeterminado directamente en la definición de la función.
 - Argumentos variables (`*args` y `**kwargs`): Estos permiten que una función acepte un número arbitrario (variable) de argumentos.
-
   - args: Permite que una función acepte cualquier número de argumentos posicionales adicionales.
 
-    > [!IMPORTANT]
-    > Los argumentos posicionales extra se empaquetan en una tupla.
+> [!IMPORTANT]
+> Los argumentos posicionales extra se empaquetan en una tupla.
 
     ejemplo
 
@@ -85,9 +84,10 @@ print(resultado)  # Salida: 8
     # arg2: 10
     ```
 
-  - kwargs: Permite que una función acepte cualquier número de argumentos nombrados (por palabra clave) adicionales.
-    > [!IMPORTANT]  
-    > Los argumentos nombrados extra se empaquetan en un diccionario, donde las claves son los nombres de los argumentos.
+- kwargs: Permite que una función acepte cualquier número de argumentos nombrados (por palabra clave) adicionales.
+
+> [!IMPORTANT]  
+> Los argumentos nombrados extra se empaquetan en un diccionario, donde las claves son los nombres de los argumentos.
 
 ```python
 def ejemplo_argumentos(arg1, arg2=10, *args, **kwargs):
