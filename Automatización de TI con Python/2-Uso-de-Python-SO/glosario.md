@@ -1,0 +1,59 @@
+# Glosario de términos del Curso 2
+
+- **Alteración:** RegEx que coincide con cualquiera de las alternativas separadas por el símbolo de la tubería
+- **Archivos de registro:** Los archivos de registro son registros o archivos de texto que almacenan un historial de eventos, acciones o errores generados por un sistema informático, software o aplicación con fines de diagnóstico, solución de problemas o auditoría
+- **Argumentos de la línea de comandos:** Entradas proporcionadas a un programa cuando se ejecuta desde la línea de comandos
+- **Backreference:** Se aplica cuando se utiliza re.sub( ) para sustituir el valor de un grupo de captura en la salida
+- **Bash:** El intérprete de comandos más utilizado en Linux
+- **Canalización:** Proceso de conexión de varios scripts, comandos u otros programas en una cadena de procesamiento de datos
+- **Caso de prueba:** Es la unidad individual de prueba que busca una respuesta específica a un conjunto de entradas
+- **Casos extremos:** Entradas de código que producen resultados inesperados y se encuentran en los extremos de los rangos de entrada
+- **Clases de caracteres:** Se escriben dentro de corchetes y nos permiten listar los caracteres que queremos que coincidan dentro de esos corchetes
+- **Comodín:** Un carácter que puede coincidir con más de un carácter
+- **Conjunto de pruebas:** Se utiliza para compilar pruebas que deben ejecutarse conjuntamente
+- **Cortar:** Un comando que puede dividir y tomar sólo trozos de cada línea usando espacios
+- **Dialectos:** Reglas que definen la estructura de un Archivo CSV
+- **Dispositivo de prueba:** Preparado para realizar una o varias pruebas
+- **Ejecutor de pruebas:** Este ejecuta la prueba y proporciona a los desarrolladores los datos del resultado
+- **Entorno de desarrollo integrado (IDE):** Un editor de código con capacidades adicionales para simplificar la escritura de scripts
+- **Entorno virtual:** Una herramienta que le permite crear entornos aislados para sus proyectos Python
+- **Entrada / Salida (E/S):** Estos flujos son el mecanismo básico para realizar operaciones de entrada y salida en tus programas
+- **Error estándar (STDERR):** Muestra la salida como la salida estándar, pero se utiliza específicamente como canal para mostrar mensajes de error y diagnósticos del programa
+- **Espacio de usuario:** Todo lo que está fuera del núcleo y con lo que los usuarios interactúan directamente
+- **Expresión regular:** Una consulta de búsqueda de texto que se expresa mediante un patrón de cadena, también conocida como RegEx o RegExp
+- **Flujo de entrada estándar comúnmente (STDIN):** Un canal entre un programa y una fuente de entrada
+- **Flujo de salida estándar (STDOUT):** Una vía entre un programa y un destino de salida, como una pantalla
+- **Globos:** Caracteres que crean listas de archivos, como la estrella y el signo de interrogación
+- **grep:** Una herramienta especialmente fácil de usar pero extremadamente potente para aplicar RegExes
+- **Intérprete o lenguaje interpretado:** Un programa intermediario utilizado para ejecutar las instrucciones especificadas en el código
+- **Kernel:** El núcleo principal de un sistema operativo que habla directamente con el hardware y gestiona los recursos del sistema
+- **Lenguaje compilado o compilador:** Código compatible que puede ejecutarse en diferentes plataformas
+- **Linux:** Un sistema operativo de código abierto en el que el software se puede compartir, modificar y distribuir libremente
+- **Lookahead:** RegEx que hace coincidir un patrón sólo si va seguido de otro patrón
+- **Mac OS:** Sistema operativo desarrollado por Apple
+- **Máquina virtual (VM):** Un ordenador simulado mediante software
+- **Modo:** El formato que controla lo que se puede hacer con un archivo recién abierto
+- **Objetos de escritura:** Capacidad de escribir datos en un Archivo CSV
+- **Objetos de lectura:** objeto que representa un elemento o entidad dentro de una escena que necesita ser representada en la pantalla
+- **Prueba automática:** Proceso en el que el software se autocomprueba para detectar errores y confirmar que funciona correctamente
+- **Prueba de caja blanca:** Una prueba en la que el creador de la prueba sabe cómo funciona el código y puede escribir casos de prueba que utilizan la comprensión para asegurarse de que se realiza como se esperaba
+- **Pruebas de caja negra:** Pruebas en las que se sabe qué debe hacer el programa, pero no cómo lo hace
+- **Pruebas de software:** Proceso de evaluación de un código informático para determinar si hace o no lo que se espera de él
+- **Pruebas unitarias:** Prueba para verificar que pequeñas partes aisladas de un programa funcionan correctamente
+- **Pytest:** Una potente herramienta de pruebas de Python que ayuda a los programadores a escribir programas más eficaces y estables
+- **Qwiklabs:** Un entorno de aprendizaje en línea o máquina virtual para simular escenarios del mundo real
+- **Rangos de caracteres:** Rangos utilizados para comparar un único carácter con un conjunto de posibilidades
+- **Redirección:** Proceso de enviar un flujo a un destino diferente
+- **Ruta de acceso absoluta:** Una ruta completa al recurso en el sistema de archivos
+- **Ruta de acceso relativa:** Parte de una ruta que indica dónde se encuentra el recurso en relación con el directorio de trabajo actual
+- **Script Bash:** Un script que contiene múltiples comandos
+- **Señales:** Señales que se envían a los procesos en ejecución para indicar una acción deseada
+- **Shell:** La aplicación que lee y ejecuta todos los comandos
+- **Sistema operativo (SO):** Software que gestiona todo lo que ocurre en el ordenador, - **compuesto por dos partes principales:** el núcleo y el espacio de usuario
+- **Sistema operativo Windows:** Sistema operativo desarrollado por Microsoft
+- **Sistemas de archivos:** Métodos y estructuras utilizados para organizar y controlar cómo se almacenan y se accede a los datos
+- **Subprocesos:** Un proceso para llamar y ejecutar otras aplicaciones desde dentro de Python, incluyendo otros scripts de Python
+- **Tuberías:** Proceso de conectar la salida de un programa a la entrada de otro
+- **unittest:** Un conjunto de herramientas de Python para construir y ejecutar pruebas unitarias
+- **Valores separados por comas (CSV):** Un formato de datos muy común utilizado para almacenar datos como segmentos de texto separados por comas
+- **Variables de entorno:** Ajustes y datos almacenados fuera de un programa a los que éste puede acceder para alterar el comportamiento del programa en un entorno determinado

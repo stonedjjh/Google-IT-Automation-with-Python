@@ -31,7 +31,7 @@ Las carpetas se irán creando según avance en el curso.
 ## Progreso
 
 - [x] 1. Curso intensivo de Python - En progreso
-- [ ] 2. Uso de Python para interactuar con el Sistema operativo
+- [x] 2. Uso de Python para interactuar con el Sistema operativo
 - [ ] 3. Introducción a Git y GitHub
 - [ ] 4. Técnicas de solución de problemas y depuración
 - [ ] 5. Gestión de la configuración y la nube
@@ -40,4 +40,4 @@ Las carpetas se irán creando según avance en el curso.
 
 ---
 
-Repositorio de aprendizaje personal - 2025
+Repositorio de aprendizaje personal - 2025 - 2026
