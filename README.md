@@ -10,12 +10,12 @@ Este repositorio contiene mis ejercicios y notas personales del curso **Certific
 
 La certificación consta de 7 cursos:
 
-1. [**Curso intensivo de Python**](./1.%20Curso%20intensivo%20de%20Python)
-2. **Uso de Python para interactuar con el Sistema operativo**
-3. **Introducción a Git y GitHub**
-4. **Técnicas de solución de problemas y depuración**
-5. **Gestión de la configuración y la nube**
-6. **Automatización de tareas del mundo real con Python**
+1. [**Curso intensivo de Python**](./Automatización%20de%20TI%20con%20Python/1-Curso-intensivo-de-Python/)
+2. [**Uso de Python para interactuar con el Sistema operativo**](./Automatización%20de%20TI%20con%20Python/2-Uso-de-Python-SO/)
+3. [**Introducción a Git y GitHub**](./Automatización%20de%20TI%20con%20Python/3-Git-Github/)
+4. [**Técnicas de solución de problemas y depuración**](./Automatización%20de%20TI%20con%20Python/4-Técnicas-de-solución-de-problemas-y-depuración/)
+5. [**Gestión de la configuración y la nube**](./Automatización%20de%20TI%20con%20Python/5-Gestión-de-la-configuración-y-la-nube/)
+6. [**Automatización de tareas del mundo real con Python**](./Automatización%20de%20TI%20con%20Python/6-Automatización-de-tareas-reales-con-Python/)
 7. **Acelere su búsqueda de empleo con IA**
 
 ## Organización del Repositorio
