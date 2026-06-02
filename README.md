@@ -32,11 +32,11 @@ Las carpetas se irán creando según avance en el curso.
 
 - [x] 1. Curso intensivo de Python - En progreso
 - [x] 2. Uso de Python para interactuar con el Sistema operativo
-- [ ] 3. Introducción a Git y GitHub
-- [ ] 4. Técnicas de solución de problemas y depuración
-- [ ] 5. Gestión de la configuración y la nube
-- [ ] 6. Automatización de tareas del mundo real con Python
-- [ ] 7. Acelere su búsqueda de empleo con IA
+- [x] 3. Introducción a Git y GitHub
+- [x] 4. Técnicas de solución de problemas y depuración
+- [x] 5. Gestión de la configuración y la nube
+- [x] 6. Automatización de tareas del mundo real con Python
+- [x] 7. Acelere su búsqueda de empleo con IA
 
 ---
 
