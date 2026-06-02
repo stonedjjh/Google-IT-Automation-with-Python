@@ -1,0 +1,45 @@
+# Glosario de términos del Curso 4
+
+- **Acciones costosas:** Acciones que pueden tardar mucho tiempo en completarse
+- **Agotado:** Cuando los recursos se usan completamente y los programas se bloquean por no tener más acceso a esos recursos
+- **Ancho de banda:** cantidad de datos que se pueden enviar o recibir en un segundo
+- **Archivos principales:** Archivos que almacenan toda la información relacionada con el fallo para depurar el problema
+- **Bisección:** Dividir en dos, también un comando Git
+- **Búsqueda binaria:** Algoritmo de búsqueda utilizado para encontrar un elemento específico en una lista o matriz ordenada dividiendo repetidamente el espacio de búsqueda por la mitad hasta que se encuentra el elemento deseado o se determina que está ausente
+- **Búsqueda lineal:** El proceso de buscar en cada línea de datos hasta localizar la entrada de datos deseada
+- **Caché:** Almacena datos en una forma de acceso más rápido que su forma original
+- **Caso de reproducción:** Una descripción clara de cómo y cuándo aparece el problema, una forma de verificar si el problema está presente o no
+- **Comandante del incidente (controlador del incidente):** La persona que debe tener una visión global y decidir cuál es el mejor uso de los recursos disponibles
+- **Comportamiento indefinido:** El código está haciendo algo que no es válido en ese lenguaje de programación
+- **Decorador:** Usado en Python para añadir un comportamiento extra a las funciones sin tener que modificar el código
+- **Depuración:** El proceso de identificar, analizar y eliminar errores en el código real de un sistema en la aplicación
+- **Depuradores:** Herramientas que siguen el código línea por línea, inspeccionan los cambios en las asignaciones de variables, interrumpen el programa cuando se cumple una condición específica, etc
+- **Deuda técnica:** El trabajo pendiente que se acumula cuando se aplica una solución rápida y fácil en lugar de una sostenible a largo plazo
+- **Efecto observador:** La idea de que observar un fenómeno altera el fenómeno
+- **Ejecutor:** Es el proceso que se encarga de distribuir el trabajo entre los distintos trabajadores
+- **Fuga de memoria:** Ocurre cuando no se libera un trozo de memoria que ya no se necesita
+- **Futuros:** Un módulo proporciona un par de ejecutores diferentes, uno para usar hilos y otro para usar procesos
+- **Hilos:** Ejecutar tareas paralelas dentro de un proceso
+- **Latencia:** El retardo entre el envío de un byte de datos desde un punto y su recepción en el otro
+- **Listas:** Secuencias de elementos
+- **Llamadas al sistema:** Las llamadas que los programas que se ejecutan en nuestro ordenador hacen al núcleo de ejecución
+- **Monitor de actividad:** Herramienta de Mac OS que muestra qué está usando más CPU, memoria, energía, disco o red
+- **Monitor de recursos (o monitor de rendimiento):** Herramienta del OS Windows que muestra qué está usando más CPU, memoria, energía, disco o red
+- **Perfilador de memoria:** Herramienta utilizada para averiguar cómo se está utilizando la memoria
+- **Perfilador:** Herramienta que mide los recursos que utiliza el código para ver cómo se asigna la memoria y cómo se emplea el tiempo
+- **Postmortems:** Documentos que describen los detalles de los incidentes para aprender de los errores
+- **Punteros:** Las variables que almacenan direcciones de memoria
+- **Puntos de interrupción:** Funciones de depuración que permiten ejecutar código hasta que se ejecuta una determinada línea de código.
+- **Recolector de basura:** Herramienta encargada de liberar la memoria que ya no está en uso
+- **Registro centralizado:** Esto significa que hay un servidor especial que recoge todos los registros de todos los servidores, o incluso de todos los ordenadores de la red
+- **Resolución de problemas:** El proceso de resolver cualquier tipo de problema en el sistema que ejecuta la aplicación
+- **Responsable de comunicación:** La persona principal que debe recibir puntualmente las actualizaciones de comunicación importantes
+- **Swap:** Espacio en el disco duro donde el sistema operativo coloca las partes de la memoria que no se están utilizando en ese momento.
+- **Tiempo de sistema:** El tiempo empleado en realizar operaciones a nivel de sistema
+- **Tiempo de usuario:** El tiempo dedicado a realizar operaciones en el espacio de usuario
+- **Tiempo real:** La cantidad de tiempo real que se tardó en ejecutar el comando
+- **Traffic shaping:** Es una forma de marcar los paquetes de datos que se envían por la red con distintas prioridades, para evitar que grandes cantidades de datos utilicen todo el ancho de banda
+- **Valgrind:** Una potente herramienta que puede decir si el código está haciendo alguna operación no válida, sin importar si se bloquea o no
+- **Watchdog:** Es otro proceso que comprueba si un programa se está ejecutando y, cuando no es así, vuelve a iniciarlo
+- **Watchpoints:** Característica de depuración que permite que el código se ejecute hasta que cambie una variable o expresión
+- **Wrapper:** Función o programa que proporciona una capa de compatibilidad entre dos funciones o programas, para que puedan funcionar bien juntos
