@@ -1,0 +1,54 @@
+# Glosario de términos del Curso 3
+
+- **Archivo de zona DNS:** Archivo de configuración que especifica las correspondencias entre las direcciones IP y los nombres de host de la red
+- **Archivos de etapa:** Una etapa en la que los cambios en los archivos están listos para ser comprometidos
+- **Archivos modificados:** Una etapa en la que se han realizado cambios en un archivo, pero no se han almacenado o confirmado.
+- **Área de preparación de Git:** Un archivo mantenido por Git que contiene toda la información sobre qué archivos y cambios van a ir en el siguiente commit
+- **Arreglar:** La decisión de descartar los mensajes de commit para ese commit
+- **Bifurcación:** Una forma de crear una copia del repositorio dado para que pertenezca a nuestro usuario
+- **Cabecera:** Apunta a la parte superior de la rama que se está utilizando
+- **Canalizaciones:** Los pasos específicos que deben ejecutarse para obtener el resultado deseado
+- **CI/CD:** Nombre que recibe todo el sistema de integración continua y despliegue continuo
+- **Clave de Interfaz de programación de aplicaciones (API):** Es un token de autenticación que llama a una API, a la que se llama para identificar a la persona, programador o programa que intenta acceder a un sitio web
+- **Clave privada:** Clave criptográfica secreta y segura que debe mantenerse confidencial y protegida y que se utiliza para descifrar los datos que se han cifrado con la clave pública correspondiente
+- **Clave pública:** Estructura criptográfica de seguridad empleada frecuentemente para establecer una comunicación segura mediante el cifrado de datos o para validar la autenticidad de una firma digital
+- **Clave SSH:** Una credencial de acceso
+- **Cliente SSH:** Establece una conexión con el servidor SSH, garantizando una interacción segura, en la que el cliente realiza solicitudes de acceso
+- **Confirmar archivos:** Una etapa en la que los cambios realizados en los archivos se almacenan de forma segura en una instantánea en el directorio Git
+- **Confirmar:** Un comando para hacer ediciones a múltiples archivos y tratar esa colección de ediciones como un solo cambio
+- **Conflicto de fusión:** Esto ocurre cuando los cambios se hacen en la misma parte del mismo archivo, y Git no sabe cómo fusionar esos cambios
+- **Deshacer:** El acto de revertir los cambios realizados en el software a un estado anterior
+- **Despliegue continuo (DC):** El código nuevo se despliega a menudo después de haberse compilado y probado automáticamente
+- **Diff:** Un comando para encontrar las diferencias entre dos archivos
+- **Directorio Git:** Una base de datos para un proyecto Git que almacena los cambios y el historial de cambios
+- **Distribuidos:** Cada desarrollador tiene una copia de todo el repositorio en su máquina local
+- **Fusión a tres bandas:** Una fusión cuando las instantáneas en las dos puntas de rama con el antepasado común más reciente, la confirmación antes de la divergencia
+- **Fusión de confirmaciones:** Todos los commits de la rama de características se añaden a la rama base
+- **Fusión rápida:** Una fusión cuando todas las confirmaciones de la rama comprobada también están en la rama que se está fusionando
+- **Fusión:** Operación que fusiona la rama origen/master en una rama master local
+- **Fusiones indirectas:** GitHub puede fusionar un pull request automáticamente si la rama de cabecera se fusiona directa o indirectamente en la rama base de forma externa
+- **Git:** Un sistema gratuito de control de versiones de código abierto disponible para su instalación en plataformas basadas en Unix, Windows y macOS
+- **GitHub:** Un servicio de alojamiento de repositorios Git basado en la web, que permite a los usuarios compartir y acceder a repositorios en la web y copiarlos o clonarlos en un ordenador local
+- **ID de confirmación:** Un identificador junto a la palabra commit en el registro
+- **Integración continua (IC):** Un sistema que construirá y probará automáticamente nuestro código cada vez que haya un cambio
+- **Maestra:** La rama por defecto que Git crea para cuando se inicializa un nuevo repositorio, comúnmente usada para colocar las piezas aprobadas de un proyecto
+- **Mensaje de confirmación:** Un resumen y descripción con información contextual sobre las partes del código o configuración del cambio de commit
+- **Parche:** Un comando que puede detectar que se han realizado cambios en el archivo y hará todo lo posible para aplicar los cambios
+- **Protocolo SSH:** Estándar utilizado habitualmente para acceder a servidores de forma remota según el principio de cifrado de clave pública
+- **Protocolos informáticos:** Directrices publicadas como estándares abiertos para que cualquier protocolo dado pueda implementarse en varios productos
+- **Pull request:** Procedimiento por el que se examina el código nuevo antes de fusionarlo para crear una rama o rama maestra.
+- **Rama:** Un puntero a un commit en particular, que representa una línea independiente de desarrollo en un proyecto
+- **Ramas remotas:** Git utiliza ramas de sólo lectura para mantener copias de los datos almacenados en el repositorio remoto
+- **Rebase:** Se cambia el commit base que se utiliza para una rama
+- **Registro Git:** Registro que muestra los mensajes de confirmación
+- **Repositorio:** Un sistema de organización de archivos que contiene proyectos de software independientes.
+- **Repositorios remotos:** Repositorios que permiten a los desarrolladores contribuir a un proyecto desde sus propias estaciones de trabajo haciendo cambios en las copias locales del proyecto independientemente unos de otros
+- **Revisiones del código:** La reunión deliberada y metódica de otros programadores para examinar el código de los demás en busca de errores para aumentar la calidad del código y reduce la cantidad de errores
+- **Secure Shell (SSH):** Protocolo robusto para conectarse a servidores de forma remota
+- **Seguimiento de incidencias (bug tracker):** Un rastreador que muestra las tareas que hay que hacer, el estado en el que se encuentran y quién está trabajando en ellas
+- **Seguimiento:** Se registran los cambios de un archivo
+- **Servidor SSH:** Establece conexiones de red seguras, se somete a autenticación mutua e inicia sesiones de inicio de sesión o transferencias de archivos cifradas
+- **Sin seguimiento:** Los cambios de un archivo no se registran
+- **Sistemas de control de versiones (VCS):** Herramienta que permite probar el código de forma segura antes de publicarlo, permite que varias personas colaboren juntas en el mismo proyecto y almacena el historial del código y la configuración
+- **Source Control Management (SCM):** Una herramienta similar al VCS para almacenar código fuente
+- **Squash commits:** La decisión de añadir mensajes de confirmación juntos y un editor se abre para hacer los cambios necesarios
