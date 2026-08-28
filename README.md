@@ -2,6 +2,13 @@
 
 **Autor:** Daniel Jimenez
 
+## Certificación
+
+[![Insignia del Certificado](./Automatización%20de%20TI%20con%20Python/certificados/google-it-automation-with-python-professional-certi.2.png)](https://coursera.org/share/02b2e7d41302d19d8cd6f98a24c1551e)
+[![Certificado de Finalización](./Automatización%20de%20TI%20con%20Python/certificados/certificado.png)](https://coursera.org/share/02b2e7d41302d19d8cd6f98a24c1551e)
+
+**Certificado obtenido el:** 26 de abril de 2026
+
 ## Descripción
 
 Este repositorio contiene mis ejercicios y notas personales del curso **Certificado Profesional de Automatización de TI de Google con Python** de Coursera.
